@@ -153,3 +153,5 @@ const Projects = ({ id }) => {
     </section>
   );
 };
+
+export default Projects;
